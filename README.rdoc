@@ -1,3 +1,7 @@
 = PdfRenderer
 
+Requirements: install latest version of Ruby and Rails
+
+Demonstrating the extendability of the Rails framework by writing a PDF renderer plugin
+
 This project rocks and uses MIT-LICENSE.
